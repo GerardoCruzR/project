@@ -1,0 +1,138 @@
+@font-face {
+    font-family:CocoBold;
+    src: url(/src/CocoGothic-Bold_trial.ttf);
+}
+
+h1{
+    color: #0B4142;
+    font-family: 'Marmelad', sans-serif;
+}
+
+.custom-font {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+
+h3{
+    color: #0B4142;
+    font-family: 'Marmelad', sans-serif;
+}
+
+@font-face {
+    font-family:CocoLight;
+    src: url(/src/CocoGothic-Light_trial.ttf);
+}
+
+.navizquierda p{
+    font-family:CocoLight;
+    font-weight: 600;
+    font-style:initial;
+    font-size: xx-large;
+}
+
+.navmedio a{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    color: #0B4142;
+    font-size: large;
+    font-family: 'Marmelad', sans-serif;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.navderecha a{
+    padding-top: 2%;
+    color: #0B4142;
+    font-size: large;
+    padding-right: 15%;
+    text-decoration: none;
+}
+
+.paginitas a{
+    text-decoration: none;
+    color: #0B4142;
+    font-family: 'Marmelad', sans-serif;
+}
+
+div{
+    padding-left: .25%;
+    padding-right: .25%;
+}
+
+.subtitulosper h2{
+    font-family: 'Marmelad', sans-serif;
+}
+
+.dropdown{
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+.fot1 a{
+    display: flex;
+    height: 15%;
+    color: #0B4142;
+    font-family: 'Marmelad', sans-serif;
+    text-decoration: none;
+}
+
+.fot2 svg{
+    padding-right: 4%;
+    color: #0B4142;
+    text-decoration: none;
+}
+
+.Description p{
+    font-size: x-large;
+    padding-right: 2rem;
+    font-family: 'Marmelad', sans-serif;
+}
+.ULTIMO img{
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+}
+
+.ULTIMO{
+    display: flex;
+    align-items: center;
+    padding-top: 2%;
+}
+
+.ULTIMO p{
+    padding-left: 3%;
+}
+
+.abaj h5{
+    font-weight: 600;
+    color: #0B4142;
+    
+}
+
+.abaj svg{
+    color: #0B4142;
+}
+
+.abaj{
+    padding: 5%;
+    flex-direction: column;
+}
+
+label{
+    color: white;
+}
+
+.svgfregon a{
+text-decoration: none;
+color: #0B4142;
+}
+
+.svgfregon h3{
+    text-decoration: none;
+    color: #0B4142;
+}
+    .frank-ruhl {
+  font-family: 'Frank Ruhl Libre', serif;
+}
